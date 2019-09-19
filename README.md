@@ -14,7 +14,7 @@ Test coverage:
 
 the report is in build/reports/jacoco/test/html.
 
-##General Principals
+## General Principles
 
 The order board is represented by an array of Strings.
 each String starts with "BUY" or "SELL",
@@ -61,7 +61,7 @@ I created a gadget in the Orders class to create these BigDecimals,
 which is used everywhere.
 It sets the precision and the scale to the same values throughout.
 
-##Testing
+## Testing
 Coverage is good - see the report.
 
 For testing I favour stubs over mocks.
