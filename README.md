@@ -7,6 +7,7 @@
 The test report is in build/reports/tests/test
 
 The unit test testOrderBoard.testLiveBoard() produces and checks the results described in the spec.
+
 Test coverage:
 
     gradle jacocoTestreport
