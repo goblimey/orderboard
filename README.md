@@ -1,4 +1,4 @@
-#Live Order Board Exercise
+# Live Order Board Exercise
 
 ## Building and Running
     gradle build
